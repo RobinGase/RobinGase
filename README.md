@@ -3,8 +3,8 @@
 - 👀 I’m interested in ...  
 - 
       Learning to code
-- 🌱 I’m currently learning ... 
-      C++ as my first language. getting into java after but first learn c++
+- 🌱 I’m currently learning ... Python
+      
       
 - 💞️ I’m looking to collaborate on ... 
 - 
